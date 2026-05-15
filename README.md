@@ -1,6 +1,6 @@
 # 👋 Hi , I am  Kübra! 🚀
 
-💻 Compputer Engineering Student . I am interested in software development, learning new technologies and creating projects.
+💻 Computer Engineering Student . I am interested in software development, learning new technologies and creating projects.
 
 ## 🚧 Currently Working On:
 - **Backend API project** using Node.js & Express.js
