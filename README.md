@@ -1,7 +1,6 @@
 # 👋 Hi, I am Kübra Ebrar Bayrak! 🚀
 
 🎓 **3rd-Year Computer Engineering Student @ Ostim Technical University**  
-💻 **Full-Stack Developer & Data Enthusiast**
 
 I am passionate about building robust web applications, exploring predictive machine learning models, and crafting intuitive user experiences. Always eager to learn new technologies and build impactful projects!
 
